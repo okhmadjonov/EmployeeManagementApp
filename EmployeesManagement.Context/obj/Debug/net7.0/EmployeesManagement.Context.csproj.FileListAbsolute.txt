@@ -1,0 +1,17 @@
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\bin\Debug\net7.0\EmployeesManagement.Context.deps.json
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\bin\Debug\net7.0\EmployeesManagement.Context.runtimeconfig.json
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\bin\Debug\net7.0\EmployeesManagement.Context.dll
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\bin\Debug\net7.0\EmployeesManagement.Context.pdb
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\bin\Debug\net7.0\EmployeeManagement.Domain.dll
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\bin\Debug\net7.0\EmployeeManagement.Domain.pdb
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.csproj.AssemblyReference.cache
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.AssemblyInfoInputs.cache
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.AssemblyInfo.cs
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.csproj.CoreCompileInputs.cache
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.csproj.CopyComplete
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.dll
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\refint\EmployeesManagement.Context.dll
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.pdb
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\EmployeesManagement.Context.genruntimeconfig.cache
+C:\Users\nemo\Desktop\EmployeesManagement\EmployeesManagement.Context\obj\Debug\net7.0\ref\EmployeesManagement.Context.dll
