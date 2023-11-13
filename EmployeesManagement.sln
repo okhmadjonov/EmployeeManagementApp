@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeesManagement.Web", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeesManagement.Context", "EmployeesManagement.Context\EmployeesManagement.Context.csproj", "{13E9E07C-7080-4969-ABD6-9EFFAD921636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Domain", "EmployeeManagement.Domain\EmployeeManagement.Domain.csproj", "{282A2599-F645-4341-9336-0D79BE7B0998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Domain", "EmployeeManagement.Domain\EmployeeManagement.Domain.csproj", "{282A2599-F645-4341-9336-0D79BE7B0998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.UnitTest", "EmployeeManagement.UnitTest\EmployeeManagement.UnitTest.csproj", "{45D381C0-D04E-4A93-95CC-D4C78C56E181}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{282A2599-F645-4341-9336-0D79BE7B0998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{282A2599-F645-4341-9336-0D79BE7B0998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{282A2599-F645-4341-9336-0D79BE7B0998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D381C0-D04E-4A93-95CC-D4C78C56E181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D381C0-D04E-4A93-95CC-D4C78C56E181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D381C0-D04E-4A93-95CC-D4C78C56E181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D381C0-D04E-4A93-95CC-D4C78C56E181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

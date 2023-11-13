@@ -13,8 +13,12 @@ namespace EmployeesManagement.Web.Controllers
         private readonly IEmployeeRepository _repo;
         private readonly ICsvRepository _loadcsv;
 
-        public HomeController(ILogger<HomeController> logger,  IEmployeeRepository repo, ICsvRepository loadCSVService
-        )
+        public HomeController(
+            ILogger<HomeController> logger, 
+            IEmployeeRepository repo,
+            ICsvRepository loadCSVService
+
+          )
         {
             _logger = logger;
             _repo = repo;
@@ -23,7 +27,7 @@ namespace EmployeesManagement.Web.Controllers
 
         public IActionResult Index()
         {
-            var employees = _repo.GetAll().OrderBy(e => e.Surname).ToList();
+            var employees =  _repo.GetAll().OrderBy(e => e.Surname).ToList();
             return View(employees);
         }
 
